@@ -3,7 +3,7 @@ import Logo from "../Helper/Logo";
 
 const Footer = () => {
   return (
-    <div className="py-16 dark:bg-gray-950">
+    <div id="contacts" className="py-16 dark:bg-gray-950">
       <div className="w-[80%] mx-auto grid items-start grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
         <div>
           <Logo />

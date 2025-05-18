@@ -3,7 +3,7 @@ import ReviewSlider from "./ReviewSlider";
 
 const Review = () => {
   return (
-    <div className="py-16">
+    <div id="review" className="py-16">
       <div className="text-center">
         <div className="mx-auto w-fit mb-4">
           <BoxText text="Review" />

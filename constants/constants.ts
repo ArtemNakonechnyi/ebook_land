@@ -11,7 +11,7 @@ export const navLinks = [
   },
   {
     id: 3,
-    url: "#",
+    url: "#benefits",
     label: "Benefits",
   },
   {
@@ -21,12 +21,12 @@ export const navLinks = [
   },
   {
     id: 5,
-    url: "#",
+    url: "#review",
     label: "Testimonials",
   },
   {
     id: 6,
-    url: "#",
+    url: "#contacts",
     label: "Contacts",
   },
 ];

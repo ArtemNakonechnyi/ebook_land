@@ -32,7 +32,7 @@ const benefits = [
 
 const Benefits = () => {
   return (
-    <div className="py-16">
+    <div id="benefits" className="py-16">
       <div className="py-16 px-4 w-[90%] md:w-[80%] mx-auto text-center">
         <div className="mx-auto w-fit mb-4">
           <BoxText text="Benefits" />
